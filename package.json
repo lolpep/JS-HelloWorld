@@ -1,0 +1,22 @@
+{
+  "name": "js-helloworld",
+  "version": "1.0.0",
+  "description": "computer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolpep/JS-HelloWorld.git"
+  },
+  "author": "강양현",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lolpep/JS-HelloWorld/issues"
+  },
+  "homepage": "https://github.com/lolpep/JS-HelloWorld#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
